@@ -71,7 +71,7 @@
 }
 
 .footer-social {
-  margin-right: 80px;
+  margin-right: 83px;
 }
 
 .footer-subscribe-title {
@@ -94,7 +94,7 @@
   outline: transparent;
   font-family: inherit;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: var(--white);
   background-color: transparent;
@@ -107,7 +107,7 @@
 }
 
 .footer-subscribe-input:focus {
-  border-color: var(--iris);
+  border-color: #31d0aa;
 }
 
 .footer-subscribe-button {
@@ -132,7 +132,7 @@
 
 .footer-subscribe-button:hover,
 .footer-subscribe-button:focus {
-  background-color: var(--ocean);
+  background-color: #31d0aa;
 }
 
 .footer-subscribe-icon {

@@ -46,7 +46,7 @@
   width: 24px;
   height: 24px;
   padding: 0;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 50%;
   color: var(--navy-blue);
   background-color: var(--cornflower);
@@ -104,7 +104,7 @@
   border-radius: 4px;
   outline: transparent;
   font-family: inherit;
-  color: var(--navy-blue);
+  color: #434455;
   background-color: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -139,7 +139,7 @@
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: var(--navy-blue);
+  color: #434455;
   background-color: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
